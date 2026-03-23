@@ -1,4 +1,4 @@
-# MacroRisk Bank Analytics Pipeline
+# End-to-end Data Pipeline for a Banking Risk Monitoring system
 
 An end-to-end cloud-based data engineering pipeline that ingests macroeconomic data from the FRED API, processes it using AWS Glue, and loads it into a star schema data mart for banking risk analytics.
 
